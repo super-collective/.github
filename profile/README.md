@@ -7,7 +7,7 @@ Some Polkadot Collectives are considered *essential* for the system - these are 
 They may receive an allowance and are held accountable by the general public to fulfil their purpose. 
 Each *SC* should be prepared to justify its existence and provide proof of their work in case the general public doubts their efforts.
 
-Super Collective tries to find good approaches to these new issues by proving tools and standards.
+Super Collective tries to find good approaches to these new issues by providing tools and standards.
 
 ## Content
 
