@@ -3,9 +3,9 @@
 Exploring ways to organize Collectives in the Polkadot Ecosystem.
 A Collective is a Decentralized Autonomous Organization (DAO) that is entirely managed by the blockchain - no centralized managing entity.
 
-Some Polkadot Collectives are considered *essential* for the system - these are called *System Collectives* (SP).  
+Some Polkadot Collectives are considered *essential* for the system - these are called *System Collectives* (SC).  
 They may receive an allowance and are held accountable by the general public to fulfil their purpose. 
-Each *SP* should be prepared to justify its existence and provide proof of their work in case the general public doubts their efforts.
+Each *SC* should be prepared to justify its existence and provide proof of their work in case the general public doubts their efforts.
 
 Super Collective tries to find good approaches to these new issues by proving tools and standards.
 
