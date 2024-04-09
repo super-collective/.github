@@ -18,3 +18,7 @@ With Collectives possibly growing to hundreds (if not thousands) of members, the
 
 - [evidence](https://github.com/super-collective/evidence) contains a structure of how to store and index work reports.
 - [collective-cli](https://github.com/super-collective/collective-cli) a CLI to manage work reports. Works best with the aforementioned structure.
+
+## Users
+
+The only collective that is currently using these processes and structures is the [Polkadot Tooling Collective](https://github.com/polkadot-tooling-collective/collective) as a Proof-of-Concept. It will be used to collect feedback and improve user experience. Eventually, other collectives like the Fellowship and the Ambassador Program could rely on this as a successful approach to manage their inner workings.
